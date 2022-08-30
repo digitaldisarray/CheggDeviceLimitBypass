@@ -1,3 +1,5 @@
+## Note: Currently not working
+
 ## Chegg Device Limit Bypass
 
 Before:
